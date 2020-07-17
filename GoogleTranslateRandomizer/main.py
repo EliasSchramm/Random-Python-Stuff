@@ -3,9 +3,11 @@ from googletrans import Translator, LANGUAGES
 import random
 import time as t
 
+
 def chunks(l, n):
     n = max(1, n)
-    return (l[i:i+n] for i in range(0, len(l), n))
+    return (l[i:i + n] for i in range(0, len(l), n))
+
 
 def preprocessString(s):
     temp = []
@@ -38,41 +40,38 @@ def process(args):
     new_text = translator.translate(original_text, dest=random_choice)
 
     new_text = new_text.text.split()
-    new_text = list(chunks(new_text, 200))
+    new_text = list(chunks(new_text, 100))
 
     print("Translated into " + LANGUAGES[random_choice])
-    for i in range(int(2)):
+    for i in range(int(iterations)):
         random_choice = random.choice(languages)
 
-
-
         temp_array = []
-        temp = ''
+        temp_string = ""
         for temp_text in new_text:
-            temp_array.append(translator.translate(' '.join(temp_text), dest=random_choice).text)
-
-        for x in new_text:
-            temp = temp+x+' '
+            tt = translator.translate(' '.join(temp_text), dest=random_choice).text
+            temp_string += tt + " "
         new_text = ''
-        new_text = temp
-
-        new_text = new_text.text.split()
+        new_text = temp_string
+        new_text = new_text.split()
         new_text = list(chunks(new_text, 200))
-
-        print(new_text)
 
         print("Translated into " + LANGUAGES[random_choice])
 
+    temp_array = []
+    temp_string = ""
     for temp_text in new_text:
-        print(temp_text)
-        temp_array.append(translator.translate(' '.join(temp_text), dest=original_language).text)
-    new_text = temp_array
+        tt = translator.translate(' '.join(temp_text), dest=original_language).text
+        temp_string += tt + " "
+    new_text = ''
+    new_text = temp_string
 
     print(new_text)
 
-
-
-
+    save = open(output_file, 'r+', encoding="utf-8")
+    save.truncate(0)
+    save.write(temp_string)
+    save.close()
 
 
 if __name__ == "__main__":

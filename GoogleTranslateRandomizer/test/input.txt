@@ -1,161 +1,19 @@
-JULIA
-Was ist? Wer ruft mich?
+Zutaten
 
-WÄRTERIN
-Eure Mutter.
+    6 mittelgroße Eier
+    130 Gramm Zucker weiß
+    130 Gramm brauner Zucker
+    120 Gramm Zartbitterschokolade klein gehackt, zum Schmelzen
+    250 Gramm Butter
+    4 Esslöffel Sonnenblumenöl oder andere neutrale Sorte
+    140 Gramm Weizenmehl
+    1 Teelöffel Backpulver
+    100 Gramm Backkakao
+    80 Gramm Zartbitterschokolade klein gehackt, zum Unterheben
 
-JULIA
-Hier bin ich, gnädge Mutter! Was beliebt?
+Zubereitung
 
-GRÄFIN CAPULET
-Die Sach ist diese! - Amme, geh beiseit,
-Wir müssen heimlich sprechen. - Amme, komm
-Nur wieder her, ich habe mich besonnen,
-Ich will dich mit zur Überlegung ziehn.
-Du weißt, mein Kind hat schon ein hübsches Alter.
-
-WÄRTERIN
-Das zähl ich, meiner Treu, am Finger her.
-
-GRÄFIN CAPULET
-Sie ist nicht vierzehn Jahre.
-
-WÄRTERIN
-Ich wette vierzehn meiner Zähne drauf -
-Zwar hab ich nur vier Zahn, ich arme Frau -,
-Sie ist noch nicht vierzehn. Wie lang ists bis Johannis?
-
-GRÄFIN CAPULET
-Ein vierzehn Tag und drüber.
-
-WÄRTERIN
-Nun, drüber oder drunter. Just den Tag,
-Johannistag zu Abend, wird sie vierzehn.
-Suschen und sie - Gott gebe jedem Christen
-Das ewge Leben! - waren eines Alters.
-Nun, Suschen ist bei Gott;
-Sie war zu gut für mich. Doch wie ich sagte,
-Johannistag zu Abend wird sie vierzehn.
-Das wird sie, meiner Treu; ich weiß recht gut.
-Elf Jahr ists her, seit wir 's Erdbeben hatten;
-Und ich entwöhnte sie - mein Leben lang
-Vergeß ichs nicht - just auf denselben Tag.
-Ich hatte Wermut auf die Brust gelegt
-Und saß am Taubenschlage in der Sonne;
-Die gnädge Herrschaft war zu Mantua.
-Ja, ja! Ich habe Grütz im Kopf! Nun, wie ich sagte:
-Als es den Wermut auf der Warze schmeckte
-Und fand ihn bitter - närrsches, kleines Ding -,
-Wie's böse ward und zog der Brust ein Gsicht!
-Krach! sagt' der Taubenschlag; und ich, fürwahr,
-Ich wußte nicht, wie ich mich tummeln sollte,
-Und seit der Zeit ists nun elf Jahre her.
-Denn damals stand sie schon allein; mein Treu,
-Sie lief und watschelt' Euch schon flink herum.
-Denn tags zuvor fiel sie die Stirn entzwei,
-Und da hob sie mein Mann - Gott hab ihn selig!
-Er war ein lustger Mann - vom Boden auf.
-Ei, sagt' er, fällst du so auf dein Gesicht?
-Wirst rücklings fallen, wenn du klüger bist,
-Nicht wahr, mein Kind? Und liebe, heilge Frau!
-Das Mädchen schrie nicht mehr und sagte: Ja.
-Da seh man, wie so 'n Spaß zum Vorschein kommt!
-Und lebt ich tausend Jahre lang, ich wette,
-Daß ich es nie vergaß. Nicht wahr, mein Kind? sagt' er;
-Und 's liebe Närrchen ward still und sagte: Ja.
-
-GRÄFIN CAPULET
-Genug davon, ich bitte, halt dich ruhig.
-
-WÄRTERIN
-Ja, gnädge Frau. Doch lächerts mich noch immer,
-Wie 's Kind sein Schreien ließ und sagte: Ja,
-Und saß ihm, meiner Treu, doch eine Beule,
-So dick wie 'n Hühnerei, auf seiner Stirn,
-Recht gfährlich dick, und es schrie bitterlich.
-Mein Mann, der sagte: Ei, fällst aufs Gesicht?
-Wirst rücklings fallen, wenn du älter bist.
-Nicht wahr, mein Kind? Still wards und sagte: Ja.
-
-JULIA
-Ich bitt dich, Amme, sei doch auch nur still.
-
-WÄRTERIN
-Gut, ich bin fertig. Gott behüte dich!
-Du warst das feinste Püppchen, das ich säugte.
-Erleb ich deine Hochzeit noch einmal,
-So wünsch ich weiter nichts.
-
-GRÄFIN CAPULET
-Die Hochzeit, ja, das ist der Punkt, von dem
-Ich sprechen wollte. Sag mir, liebe Tochter,
-Wie stehts mit deiner Lust, dich zu vermählen?
-
-JULIA
-Ich träumte nie von dieser Ehre noch.
-
-WÄRTERIN
-Ein Ehre! Hättst du eine andre Amme
-Als mich gehabt, so wollt ich sagen: Kind,
-Du habest Weisheit mit der Milch gesogen.
-
-GRÄFIN CAPULET
-Gut, denke jetzt dran; jünger noch als du
-Sind angesehne Fraun hier in Verona
-Schon Mütter worden. Ist mir recht, so war
-Ich deine Mutter in demselben Alter,
-Wo du noch Mädchen bist. Mit einem Wort:
-Der brave Paris wirbt um deine Hand.
-
-WÄRTERIN
-Das ist ein Mann, mein Fräulein! Solch ein Mann,
-Als alle Welt - ein wahrer Zuckermann!
-
-GRÄFIN CAPULET
-Die schönste Blume von Veronas Flor.
-
-WÄRTERIN
-Ach ja, 'ne Blume! Gelt, 'ne rechte Blume!
-
-GRÄFIN CAPULET
-Was sagst du? Wie gefällt dir dieser Mann?
-Heut abend siehst du ihn bei unserm Fest.
-Dann lies im Buche seines Angesichts,
-In das der Schönheit Griffel Wonne schrieb,
-Betrachte seiner Züge Lieblichkeit,
-Wie jeglicher dem andern Zierde leiht.
-Was dunkel in dem holden Buch geblieben,
-Das lies in seinem Aug am Rand geschrieben.
-Und dieses Freiers ungebundner Stand,
-Dies Buch der Liebe braucht nur einen Band.
-Der Fisch lebt in der See, und doppelt teuer
-Wird äußres Schön' als innrer Schönheit Schleier.
-Das Buch glänzt allermeist im Aug der Welt,
-Das goldne Lehr in goldnen Spangen hält.
-So wirst du alles, was er hat, genießen,
-Wenn du ihn hast, ohn etwas einzubüßen.
-
-WÄRTERIN
-Einbüßen? Nein, zunehmen wird sie eher;
-Die Weiber nehmen oft durch Männer zu.
-
-GRÄFIN CAPULET
-Sag kurz, fühlst du dem Grafen dich geneigt?
-
-JULIA
-Gern will ich sehn, ob Sehen Neigung zeugt;
-Doch weiter soll mein Blick den Flug nicht wagen,
-Als ihn die Schwingen Eures Beifalls tragen.
-Ein Diener kommt.
-
-DIENER
-Gnädige Frau, die Gäste sind da, das Abendessen auf dem Tisch; Ihr werdet gerufen, das Fräulein gesucht, die Amme in der Speisekammer zum Henker gewünscht, und alles geht drunter und drüber. Ich muß fort, aufwarten; ich bitte Euch, kommt unverzüglich!
-
-GRÄFIN CAPULET
-Gleich! -
-Der Diener geht ab.
-           Paris wartet; Julia, komm geschwind!
-
-WÄRTERIN
-Such frohe Nacht auf frohe Tage, Kind!
-Alle ab.
+    Backofen auf 175 Grad Ober- und Unterhitze vorheizen. Ein kleines Blech oder eine rechteckige Backform (ca. 25*35 cm) mit Backpapier belegen.
+    Klein gehackte Schokolade und Butter zusammen in einem Topf im heißen Wasserbad schmelzen lassen. Leicht abkühlen lassen. Das Öl zur Schoko-Butter-Masse geben. Die Eier mit dem weißen und braunen Zucker sehr schaumig schlagen.
+    Mehl mit Backpulver und Kakao mischen. Die Schoko-Butter-Masse und die trockenen Zutaten kurz, aber kräftig, unter die Eiercreme rühren. Die klein gehackte Schokolade ebenfalls dazugeben; ein paar Chunks für die Deko aufheben. Den Brownieteig in die vorbereitete Form füllen und glattstreichen. Restliche gehackte Schokolade darüber verteilen.
+    Brownies ganz grob ca. 25 Minuten backen – die Backzeit hängt von eurem Ofen ab. Nicht zu lange im Ofen lassen! Der Teig sollte noch etwas weich sein, aber natürlich im Inneren nicht mehr hin- und her wackeln. Die Brownies werden beim Abkühlen noch etwas fester.
