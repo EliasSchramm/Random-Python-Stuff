@@ -124,3 +124,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 *.txt
+GoogleTranslateRandomizer/test/input.txt
+GoogleTranslateRandomizer/test/output.txt
