@@ -46,23 +46,28 @@ def process(args):
     for i in range(int(iterations)):
         random_choice = random.choice(languages)
 
+
         temp_array = []
         temp_string = ""
         for temp_text in new_text:
             tt = translator.translate(' '.join(temp_text), dest=random_choice).text
             temp_string += tt + " "
+
         new_text = ''
         new_text = temp_string
         new_text = new_text.split()
-        new_text = list(chunks(new_text, 200))
+        new_text = list(chunks(new_text, 100))
 
         print("Translated into " + LANGUAGES[random_choice])
 
     temp_array = []
     temp_string = ""
+    j = 0
     for temp_text in new_text:
         tt = translator.translate(' '.join(temp_text), dest=original_language).text
         temp_string += tt + " "
+        print(tt)
+
     new_text = ''
     new_text = temp_string
 
