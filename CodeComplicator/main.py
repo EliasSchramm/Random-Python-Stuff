@@ -34,16 +34,16 @@ def complicatePython(inputfile, outputfile):
     for line in lines:
         if "def " in line and "):" in line:
             fun_name = line.split("def ")[1].split("(")[0]
+            if not fun_name == "print":
+                newName = getNextName()
+                FUN_DIC[fun_name] = newName
 
-            newName = getNextName()
-            FUN_DIC[fun_name] = newName
-
-            line = line.replace(fun_name, newName)
+                line = line.replace(fun_name, newName)
 
         else:
             for k, v in FUN_DIC.items():
                 if k in line:
-                    if line.split(k)[1].startswith("("):
+                    if line.split(k)[1].startswith("(") and not "print" in line:
                         line = line.replace(k, v)
 
         if not line.replace("\n", "").replace(" ", "") == "":
